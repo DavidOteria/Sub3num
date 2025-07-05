@@ -41,7 +41,7 @@ pip install git+https://github.com/DavidOteria/sub3num.git
 ### Option 2 – clone and dev mode 
 
 ```bash
-git clone https://github.com/tonuser/sub3num.git
+git clone https://github.com/DavidOteria/sub3num.git
 cd sub3num
 pip install -e .
 ```
