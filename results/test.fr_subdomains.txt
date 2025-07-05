@@ -1,0 +1,8 @@
+admin.test.fr
+dev.test.fr
+login.test.fr
+mail.test.fr
+portal.test.fr
+staging.test.fr
+test.test.fr
+vpn.test.fr

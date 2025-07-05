@@ -1,0 +1,8 @@
+admin
+vpn
+mail
+dev
+test
+staging
+portal
+login
