@@ -5,7 +5,7 @@ It provides both passive and active subdomain discovery engines and is designed 
 
 ---
 
-## ✨ Features
+## Features
 
 - Passive enumeration via `crt.sh`
 - Active bruteforce DNS engine with multi-threading
@@ -16,7 +16,7 @@ It provides both passive and active subdomain discovery engines and is designed 
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Option 1 – via GitHub
 
