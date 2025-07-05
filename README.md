@@ -35,7 +35,7 @@ sub3enum/
 ### Option 1 – via GitHub
 
 ```bash
-pip install git+https://github.com/tonuser/sub3num.git
+pip install git+https://github.com/DavidOteria/sub3num.git
 ```
 
 ### Option 2 – clone and dev mode 
