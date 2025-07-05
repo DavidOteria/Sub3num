@@ -16,6 +16,20 @@ It provides both passive and active subdomain discovery engines and is designed 
 
 ---
 
+## Structure 
+```cpp
+sub3enum/
+├── engines/
+│   ├── crtsh.py
+│   ├── brute.py
+│   └── base.py
+├── utils/
+│   └── export.py
+├── enumerator.py
+├── wordlists/
+│   └── common.txt
+```
+
 ## Installation
 
 ### Option 1 – via GitHub
@@ -48,20 +62,6 @@ scanner.run()
 results = scanner.get_results()
 for sub in results:
     print(sub)
-```
-
-## Structure 
-```cpp
-sub3enum/
-├── engines/
-│   ├── crtsh.py
-│   ├── brute.py
-│   └── base.py
-├── utils/
-│   └── export.py
-├── enumerator.py
-├── wordlists/
-│   └── common.txt
 ```
 
 ## Requirements 
