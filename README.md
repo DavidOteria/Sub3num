@@ -57,7 +57,7 @@ domain = "example.com"
 engines = [CrtShEngine(), BruteEngine()]
 
 scanner = SubdomainEnumerator(domain, engines)
-scanner.run()
+scanner.enumerate()
 
 results = scanner.get_results()
 for sub in results:
